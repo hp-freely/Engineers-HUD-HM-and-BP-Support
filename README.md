@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "Engineers-HUD-HM-and-BP-Support.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Engineers HUD HM and BP Support
 Adds HudManager and BuddyPoints support for the Engineers HUD
 
